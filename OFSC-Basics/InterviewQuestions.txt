@@ -1,0 +1,2 @@
+What is OFSC?
+ANSWER: "OFSC stands for Oracle Field Service Cloud. It’s a software that helps companies manage and improve their field service operations, like scheduling, tracking, and providing better service to customers."
