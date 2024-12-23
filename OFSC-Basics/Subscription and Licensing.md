@@ -4,11 +4,11 @@
 
 #   1. Subscription Model
  
- ``` User-Based Licensing: ```
+*** User-Based Licensing: ***
 -   Typically, subscriptions are based on the number of users, such as field technicians, dispatchers, and 
      administrators. Pricing varies depending on the number of users and the level of access required.
 
-  ``` Modules & Features: ```
+*** Modules & Features: ***
 -   OFSC offers different modules or features that may come with separate licensing fees. These could 
      include advanced scheduling, analytics, mobile functionality, and customer communication tools.
 
@@ -17,18 +17,18 @@
    ***Field Technician Licenses:***
 -   For mobile access and managing work orders. These licenses are generally assigned to the individuals 
      performing the fieldwork.
-    ``` Dispatcher Licenses ```
+``` Dispatcher Licenses ```
 -    Used for managing scheduling, dispatching, and work order assignments.
-    ``` Admin Licenses: ```
+``` Admin Licenses: ```
 -   Typically for users who will be configuring, setting up, and maintaining the system.
-    ``` Viewer or Read-Only Licenses: ```
+``` Viewer or Read-Only Licenses: ```
 -   For users who need to access reports or dashboards but do not require editing privileges.
 
 #   3. License Tiers
     
-``` Standard License: ```
+*** Standard License: ***
 -   Includes basic field service management features such as work order creation, scheduling, and mobile 
      support.
-``` Premium or Advanced License: ```
+*** Premium or Advanced License: ***
 -   Includes advanced features like intelligent routing, optimization, and reporting/analytics.
 
